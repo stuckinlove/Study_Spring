@@ -9,7 +9,7 @@ import java.util.concurrent.*;
  * java future
  */
 @Slf4j
-public class FutureEx {
+public class JavaAsyncFuture {
     public static void main(String[] args) throws Exception {
         // create thread pool
         ExecutorService es = Executors.newCachedThreadPool();
