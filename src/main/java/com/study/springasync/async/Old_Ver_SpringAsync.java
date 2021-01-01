@@ -19,10 +19,10 @@ import org.springframework.util.concurrent.ListenableFuture;
  */
 @SpringBootApplication
 @Slf4j
-public class SpringAsync {
+public class Old_Ver_SpringAsync {
 
     public static void main(String[] args) {
-        try(ConfigurableApplicationContext run = SpringApplication.run(SpringAsync.class, args)){
+        try(ConfigurableApplicationContext run = SpringApplication.run(Old_Ver_SpringAsync.class, args)){
         };
     }
 

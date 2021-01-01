@@ -9,7 +9,7 @@ import java.util.concurrent.*;
  * 옛날 자바 비동기 방법
  */
 @Slf4j
-public class JavaAsyncFuture {
+public class Old_Ver_JavaAsyncFuture {
     public static void main(String[] args) throws Exception {
         // create thread pool
         ExecutorService es = Executors.newCachedThreadPool();
