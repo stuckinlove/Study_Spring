@@ -1,4 +1,4 @@
-package com.study.springasync.study.dispatach;
+package com.study.springasync.dispatach;
 
 import java.util.Arrays;
 import java.util.List;
