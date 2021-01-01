@@ -6,7 +6,7 @@ import java.util.Objects;
 import java.util.concurrent.*;
 
 /**
- * java future
+ * 옛날 자바 비동기 방법
  */
 @Slf4j
 public class JavaAsyncFuture {
