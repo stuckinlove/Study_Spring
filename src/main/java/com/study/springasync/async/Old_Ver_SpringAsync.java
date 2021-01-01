@@ -64,7 +64,5 @@ public class Old_Ver_SpringAsync {
             return new AsyncResult<String>("hello");
         }
     }
-// 1.21.55
-
 
 }
