@@ -57,7 +57,7 @@ public class Old_Ver_SpringAsync {
     @Component
     @EnableAsync
     static class MyService{
-        @Async(value = "tx")
+        @Async(value = "test_thread")
         public ListenableFuture<String> hello() throws InterruptedException {
             log.info("hello()");
             Thread.sleep(2000);
